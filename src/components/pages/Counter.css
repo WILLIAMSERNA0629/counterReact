@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+.styleButton{
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  gap: 10px;
+}
+.number{
+  font-size: 100px;
+  
+}
